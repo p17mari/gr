@@ -1,0 +1,3 @@
+| author | title | image_url | caption | licence_url | licence text | categories | tags |
+| ------ | ----- | ---------- |------- | ----------- | ------------ | ---------- | ---- |
+|p17mari|drawing-tablet|/images/drawing-tablet.jpg|Μία γραφικό ταμπλέτα είναι μια συσκευή εισόδου υπολογιστή που επιτρέπει σε έναν χρήστη να σχεδιάζει εικόνες, κινούμενα σχέδια και γραφικά, με μια ειδική γραφίδα τύπου στυλό, παρόμοια με τον τρόπο με τον οποίο ένα άτομο θα έφτιαχνε εικόνες με ένα μολύβι και χαρτί.|https://en.wikipedia.org/wiki/File:Wacom_Bamboo_Capture_tablet_and_pen.jpg|Courtesy of wikimedia|input device|drawing-tablet|
